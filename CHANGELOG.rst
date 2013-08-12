@@ -4,7 +4,7 @@ News
 2.0.8 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Added xhr argument to post, get and all other requests methods [kharandziuk]
 
 
 2.0.7 (2013-08-07)
